@@ -86,7 +86,7 @@ python src/train.py \
 - **Gibbs Sampling Test MSE:** 0.0098 (≈48× slower)
 - **MLP Baseline Test MSE:** 0.0706
 
-Plots saved in the `outputs/` directory.
+
 
 ## Citation
 
