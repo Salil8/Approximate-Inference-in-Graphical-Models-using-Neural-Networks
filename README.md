@@ -46,7 +46,7 @@ This repository implements and compares three methods for approximating marginal
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/gnn-mrf-inference.git
+   git clone https://github.com/Salil8/gnn-mrf-inference.git
    cd gnn-mrf-inference
    ```
 2. Create and activate a virtual environment, then install dependencies:
