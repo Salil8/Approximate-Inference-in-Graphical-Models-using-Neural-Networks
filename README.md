@@ -20,7 +20,6 @@ This repository implements and compares three methods for approximating marginal
    - Provides a near-exact inference reference.
 
 ## Repository Structure
-
 ```
 .
 ├── data/                # Optional synthetic data scripts
@@ -46,8 +45,8 @@ This repository implements and compares three methods for approximating marginal
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Salil8/gnn-mrf-inference.git
-   cd gnn-mrf-inference
+   git clone https://github.com/Salil8/Approximate-Inference-in-Graphical-Models-using-Neural-Networks.git
+   cd Approximate-Inference-in-Graphical-Models-using-Neural-Networks
    ```
 2. Create and activate a virtual environment, then install dependencies:
    ```bash
@@ -108,6 +107,5 @@ If you use this work, please cite:
   year    = {2024},
 }
 ```
-
 
 
